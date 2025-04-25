@@ -1,6 +1,8 @@
 # Projeto de teste primeira fase
 ## Introduçãoo
 Primeiro projeto no **Github**, na primeira fase de **Sistema de Informacoes**, da [Udesc](https://www.udesc.br/).
+Dica do dia:
+> "É fazendo merda que se aduba a vida."
 ### Instalacao
 Para instalar o *Software*, faca o *download* do projeto e siga os passos a baixo
 1. Entre no diretório do projeto
