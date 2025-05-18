@@ -59,4 +59,13 @@ Código | Carta | Preço (R$)
 2 | Presa-gélida de *Ohran* | 24,99
 3 | Rastreador de *Ulvenwald* | 53,91
 
-
+> [!TIP]
+> Verificar nivel de jogo da mesa, para não criar *deck high level*
+> [!NOTE]
+> Sempre bata no combeiro.
+> [!IMPORTANT]
+> Já falei que é par bater no combeiro?
+> [!WARNING]
+> Fique atento as jogadas do combeiro, você não quer que o jogo acabe do nada.
+> [!CAUTION]
+> Não usar tutor, para não virar o combeiro
