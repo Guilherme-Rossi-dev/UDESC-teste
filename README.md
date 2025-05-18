@@ -47,10 +47,16 @@ Montando o *deck*
 Link para lisa de cartas do [comandante](https://moxfield.com/decks/1_oQG5qoOkqXsuzMS6X6AQ) 
 
 ##Tarefas
-[] Montar deck
-[] Embaralhar
-[] Jogar
-[] As vezes dá :shit:
+- [  ] Montar deck
+- [  ] Embaralhar
+- [  ] Jogar
+- [  ] As vezes dá :shit:
 
+#Cartas mais cara do *deck*
+Código | Carta | Preço (R$)
+:---: | --- | ---:
+1 | *Lolth*, Rainha Aranha | 29,74
+2 | Presa-gélida de *Ohran* | 24,99
+3 | Rastreador de *Ulvenwald* | 53,91
 
 
