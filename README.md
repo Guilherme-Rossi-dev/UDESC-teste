@@ -43,3 +43,5 @@ Montando o *deck*
 - Terrenos
 
 ![alt text](https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=618626&type=card "comandante")
+
+Link para lisa de cartas do [comandante](https://moxfield.com/decks/1_oQG5qoOkqXsuzMS6X6AQ) 
