@@ -42,5 +42,4 @@ Montando o *deck*
 - Encantamentos
 - Terrenos
 
-![alt text](https://images.app.goo.gl/iHaK9pViNLzmW6vz5 "Comandante")
-![alt text](https://www1.udesc.br/imagens/id_submenu/899/cor_horizontal_rgb.jpg "Logo Udesc")
+![alt text](https://gatherer.wizards.com/Handlers/Image.ashx?multiverseid=618626&type=card "comandante")
