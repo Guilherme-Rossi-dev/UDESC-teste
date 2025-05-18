@@ -22,5 +22,25 @@ printf ("Olá mundo")
 }
 ```
 
+##### Motivacional do dia:
 "The good is oft interred with their bones, but The evil that men do lives after them"
 William Shakespeare
+
+###### Aleatoriedades:
+Lista de compras:
+- Cartas
+- *Shields* ou protetores
+- *Playmet* ou tapete
+- Dados
+
+Montando o *deck*
+- Escolher o comandante
+- Criaturas
+- Magicas instantaneas
+- Feitichos
+- Artefatos
+- Encantamentos
+- Terrenos
+
+  ![alt text] (https://images.app.goo.gl/iHaK9pViNLzmW6vz5 "Comandante")
+
