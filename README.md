@@ -61,15 +61,15 @@ Código | Carta | Preço (R$)
 
 > [!TIP]
 > Verificar nivel de jogo da mesa, para não criar *deck high level*
-> 
+
 > [!NOTE]
 > Sempre bata no combeiro.
-> 
+
 > [!IMPORTANT]
 > Já falei que é par bater no combeiro?
-> 
+
 > [!WARNING]
 > Fique atento as jogadas do combeiro, você não quer que o jogo acabe do nada.
-> 
+
 > [!CAUTION]
 > Não usar tutor, para não virar o combeiro
