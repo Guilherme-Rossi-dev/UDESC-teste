@@ -52,7 +52,7 @@ Link para lisa de cartas do [comandante](https://moxfield.com/decks/1_oQG5qoOkqX
 - [  ] Jogar
 - [  ] As vezes dá :shit:
 
-#Cartas mais cara do *deck*
+###Cartas mais cara do *deck*
 Código | Carta | Preço (R$)
 :---: | --- | ---:
 1 | *Lolth*, Rainha Aranha | 29,74
